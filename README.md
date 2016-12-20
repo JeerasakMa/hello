@@ -10,11 +10,4 @@
 |----|----|
 |  2 |3   |
 
-cmd
-mv a to b
 
-***python
-def main(){
-
-}
-***
